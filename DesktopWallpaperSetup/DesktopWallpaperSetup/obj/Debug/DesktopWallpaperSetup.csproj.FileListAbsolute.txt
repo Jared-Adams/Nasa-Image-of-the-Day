@@ -1,0 +1,11 @@
+c:\users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\bin\Debug\DesktopWallpaperSetup.exe.config
+c:\users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\bin\Debug\DesktopWallpaperSetup.exe
+c:\users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\bin\Debug\DesktopWallpaperSetup.pdb
+c:\users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\bin\Debug\HtmlAgilityPack.dll
+c:\users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\bin\Debug\HtmlAgilityPack.pdb
+c:\users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\bin\Debug\HtmlAgilityPack.xml
+c:\users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\obj\Debug\DesktopWallpaperSetup.csproj.CoreCompileInputs.cache
+c:\users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\obj\Debug\DesktopWallpaperSetup.exe
+c:\users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\obj\Debug\DesktopWallpaperSetup.pdb
+C:\Users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\obj\Debug\DesktopWallpaperSetup.csprojAssemblyReference.cache
+C:\Users\l96on\source\repos\DesktopWallpaperSetup\DesktopWallpaperSetup\obj\Debug\DesktopWallpaperSetup.csproj.CopyComplete
